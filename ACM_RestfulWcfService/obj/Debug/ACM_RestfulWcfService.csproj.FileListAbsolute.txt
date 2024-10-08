@@ -1,0 +1,7 @@
+C:\ayechanmoe-webprojects\ACM_RestfulWcfService\ACM_RestfulWcfService\obj\Debug\ACM_RestfulWcfService.csproj.CoreCompileInputs.cache
+C:\ayechanmoe-webprojects\ACM_RestfulWcfService\ACM_RestfulWcfService\bin\ACM_RestfulWcfService.dll.config
+C:\ayechanmoe-webprojects\ACM_RestfulWcfService\ACM_RestfulWcfService\bin\ACM_RestfulWcfService.dll
+C:\ayechanmoe-webprojects\ACM_RestfulWcfService\ACM_RestfulWcfService\bin\ACM_RestfulWcfService.pdb
+C:\ayechanmoe-webprojects\ACM_RestfulWcfService\ACM_RestfulWcfService\obj\Debug\ACM_RestfulWcfService.dll
+C:\ayechanmoe-webprojects\ACM_RestfulWcfService\ACM_RestfulWcfService\obj\Debug\ACM_RestfulWcfService.pdb
+C:\ayechanmoe-webprojects\ACM_RestfulWcfService\ACM_RestfulWcfService\obj\Debug\ACM_RestfulWcfService.csprojAssemblyReference.cache
